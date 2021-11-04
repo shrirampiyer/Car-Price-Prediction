@@ -6,18 +6,18 @@ Developed a web API and deployed in on Heroku platform.
 
 LIBRARIES USED 
 
-Pandas,
+Pandas
 
-Seaborn,
+Seaborn
 
-Matplotlib,
+Matplotlib
 
-Sklearn,
+Sklearn
 
-Jsonify, 
+Jsonify
 
-Flask,
+Flask
 
-Numpy,
+Numpy
 
-Pickle,
+Pickle
